@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @labiebhn
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript (React)
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Mobile Development
 - 📫 How to reach me labiebhn@gmail.com
 
 <!---
