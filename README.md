@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @labiebhn
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Mobile Development
-- 📫 How to reach me labiebhn@gmail.com
+Bring tech to a better world
 
 <!---
 labiebhn/labiebhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
